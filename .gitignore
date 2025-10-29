@@ -1,0 +1,14 @@
+# virtual environment
+.venv/
+
+# bytecode
+__pycache__/
+*.pyc
+
+# data and temp files
+data/
+
+.DS_Store
+
+.idea/
+
